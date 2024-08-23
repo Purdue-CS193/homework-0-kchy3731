@@ -1,3 +1,10 @@
+# Kirill Chynayev's first CS19300 homework!!1
+
+## Some things I like about CS19300 are:
+- um
+- uh
+- the `(THIS PART IS WHAT WE ARE ACTUALLY GRADING)` was kinda funny.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
